@@ -8,7 +8,10 @@ const Index = () => {
       alignItems: 'center',
       backgroundColor: '#fa9930ff' 
       }}>
-      <Text style={{fontSize:30, fontWeight:800}}>Hello world!</Text>
+      <Text style={{
+        fontSize: 30, 
+        fontWeight: "800" }
+        }>Hello world!</Text>
     </View>
   );
 };
